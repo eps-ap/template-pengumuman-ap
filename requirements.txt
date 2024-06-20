@@ -1,3 +1,4 @@
-altair
+docx-mailmerge
 pandas
 streamlit
+docxtpl
